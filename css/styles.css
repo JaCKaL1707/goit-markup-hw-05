@@ -57,6 +57,7 @@ p {
 .nav-bar {
   display: flex;
   align-items: center;
+  font-weight: 500;
 }
 .nav-list {
   display: flex;
@@ -533,6 +534,7 @@ p {
 .social-header {
   display: flex;
   text-transform: uppercase;
+  font-weight: 500;
   color: #ffffff;
   margin-bottom: 20px;
 }
