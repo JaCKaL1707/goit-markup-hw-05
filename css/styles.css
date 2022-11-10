@@ -69,6 +69,8 @@ p {
 .nav-list .nav-list-item:last-child {
   margin-right: 0px;
 }
+
+
 .logo {
   font-family: "Raleway", sans-serif;
   font-weight: bold;
@@ -97,6 +99,8 @@ p {
   text-decoration: none;
   outline: none;
 
+  
+
   padding-top: 32px;
   padding-bottom: 32px;
 }
@@ -104,7 +108,6 @@ p {
 .anchors:hover,
 .anchors:focus {
   color: var(--anchors-accent-color);
-  
   
 }
 .anchors:active {
@@ -308,7 +311,7 @@ p {
 }
 
 .workers {
-  padding-top: 30px;
+  margin-top: 30px;
   padding-bottom: 30px;
 }
 
@@ -595,6 +598,8 @@ p {
   color: var(--portfolio-buttons-color);
   border: none;
   border-radius: 4px;
+outline: none;
+
   padding: 6px 22px;
   margin-right: 8px;
 }
@@ -630,6 +635,7 @@ p {
   letter-spacing: 0.02em;
   color: var(--header-color);
   text-decoration: none;
+  outline: none;
 }
 .portfolio-anchors:hover,
 .portfolio-anchors:focus {
