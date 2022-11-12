@@ -104,7 +104,9 @@ p {
   padding-top: 32px;
   padding-bottom: 32px;
 }
-
+.nav-studio.current-page {
+  color: var(--anchors-accent-color);
+}
 .anchors:hover,
 .anchors:focus {
   color: var(--anchors-accent-color);
@@ -577,7 +579,9 @@ p {
 }
 
 /* portfolio-section-of-styles */
-
+.nav-portfolio.current-page {
+  color: var(--anchors-accent-color);
+}
 /* buttons-section */
 .buttons-bar-section {
   margin-top: 94px;
